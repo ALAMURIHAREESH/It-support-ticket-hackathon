@@ -1,0 +1,63 @@
+{
+    "accuracy": 0.9598997493734336,
+    "classification_report": {
+        "Access": {
+            "precision": 0.9655172413793104,
+            "recall": 0.9824561403508771,
+            "f1-score": 0.9739130434782609,
+            "support": 57.0
+        },
+        "Database": {
+            "precision": 1.0,
+            "recall": 0.9298245614035088,
+            "f1-score": 0.9636363636363636,
+            "support": 57.0
+        },
+        "Email_Collaboration": {
+            "precision": 0.9473684210526315,
+            "recall": 0.9473684210526315,
+            "f1-score": 0.9473684210526315,
+            "support": 57.0
+        },
+        "Hardware": {
+            "precision": 0.9818181818181818,
+            "recall": 0.9473684210526315,
+            "f1-score": 0.9642857142857143,
+            "support": 57.0
+        },
+        "Network": {
+            "precision": 0.9814814814814815,
+            "recall": 0.9298245614035088,
+            "f1-score": 0.954954954954955,
+            "support": 57.0
+        },
+        "Security": {
+            "precision": 0.95,
+            "recall": 1.0,
+            "f1-score": 0.9743589743589743,
+            "support": 57.0
+        },
+        "Software": {
+            "precision": 0.9032258064516129,
+            "recall": 0.9824561403508771,
+            "f1-score": 0.9411764705882353,
+            "support": 57.0
+        },
+        "accuracy": 0.9598997493734336,
+        "macro avg": {
+            "precision": 0.9613444474547456,
+            "recall": 0.9598997493734335,
+            "f1-score": 0.9599562774793051,
+            "support": 399.0
+        },
+        "weighted avg": {
+            "precision": 0.9613444474547455,
+            "recall": 0.9598997493734336,
+            "f1-score": 0.959956277479305,
+            "support": 399.0
+        }
+    },
+    "train_samples": 1596,
+    "test_samples": 399,
+    "similarity_threshold": 0.6028196810367518
+}
